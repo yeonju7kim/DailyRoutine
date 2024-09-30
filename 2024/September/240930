@@ -1,0 +1,7 @@
+# VATLM: Visual-Audio-Text Pre-Training with Unified Masked Prediction for Speech Representation Learning
+https://arxiv.org/abs/2211.11275
+읽은 이유: text encoder를 어떻게 학습시켜야 되지... 
+
+- masked prediction task of unified tokens
+- 
+
